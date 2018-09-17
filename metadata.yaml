@@ -1,5 +1,5 @@
 _repo: Memorias-de-Jose-Garibaldi-volume-2-Traduzidas-do-manuscripto-original-por-Alexandre-Dumas_52170
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Dumas, Alexandre
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '492'
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+covers:
+- cover_type: archival
+  image_path: 52170-h/images/cover.jpg
 creator:
   author:
     agent_name: Garibaldi, Giuseppe
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2358
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Garibaldi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52170#Memorias-de-Jose-Garibaldi-volume-2-Traduzidas-do-manuscripto-original-por-Alexandre-Dumas
 gutenberg_issued: '2016-05-27'
 gutenberg_type: Text
 identifiers:
